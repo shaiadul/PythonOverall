@@ -10,3 +10,4 @@ print(marks2024.get("haturia"))  # best practice for error handling
 print(marks2024.items())
 print(marks2024.values())
 print(marks2024.keys())
+print(type(marks2024))
